@@ -1,6 +1,6 @@
 function shout(arg){
   return arg.toUpperCase()
 }
-function whisper(args){
-  console.log(args.toLowereCase())
+function whisper(string){
+  return string.toLowerCase()
 }
