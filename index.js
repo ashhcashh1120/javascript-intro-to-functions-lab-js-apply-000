@@ -12,14 +12,14 @@ function logWhisper(string){
 }
 function sayHiToGrandma(string){
   if(string.LowerCase()){
-  
+
   return "I can't hear you !"
 }
 }
 function sayHiToGrandma(string){
   if (string.UpperCase()){
-    
-  
+
+
   return " YES INDEED!"
 }
 }
